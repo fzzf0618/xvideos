@@ -1,0 +1,10 @@
+name: xvideos
+redis:
+    host: localhost
+    port: 6379
+qiniu:
+  access_key: 4CeOMK3EYCG0NaaxJuCPQhjPypVYQYGDtXrALdfi
+  secret_key: 0kupsy2OVUfoWeIbjWTsujkTjzw5Gi1K2a9xpXuz
+  bucket_name: xvideos
+mysql:
+    url1: mysql+mysqlconnector://root:@localhost:3306/xvideos
